@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".consent-button.agree-consent--all"
+}

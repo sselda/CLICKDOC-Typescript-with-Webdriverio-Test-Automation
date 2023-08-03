@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[class=\"search-cards\"] div:nth-child(1) div:nth-child(1) div:nth-child(2) div:nth-child(1) span:nth-child(1) span:nth-child(1)"
+}

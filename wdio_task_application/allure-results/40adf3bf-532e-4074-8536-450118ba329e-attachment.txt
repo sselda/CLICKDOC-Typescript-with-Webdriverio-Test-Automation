@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".text-wrap.header__content--title\"}\n  (Session info: chrome=115.0.5790.110)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00007FF7C8023E62+57250]\n\t(No symbol) [0x00007FF7C7F9BC02]\n\t(No symbol) [0x00007FF7C7E6E0BB]\n\t(No symbol) [0x00007FF7C7EA765E]\n\t(No symbol) [0x00007FF7C7EA774C]\n\t(No symbol) [0x00007FF7C7EE0267]\n\t(No symbol) [0x00007FF7C7EC67EF]\n\t(No symbol) [0x00007FF7C7EDE312]\n\t(No symbol) [0x00007FF7C7EC6583]\n\t(No symbol) [0x00007FF7C7E9CC71]\n\t(No symbol) [0x00007FF7C7E9DE54]\n\tGetHandleVerifier [0x00007FF7C82D4CF2+2879026]\n\tGetHandleVerifier [0x00007FF7C8326F30+3215472]\n\tGetHandleVerifier [0x00007FF7C831FD4F+3186319]\n\tGetHandleVerifier [0x00007FF7C80B5505+652869]\n\t(No symbol) [0x00007FF7C7FA7518]\n\t(No symbol) [0x00007FF7C7FA35F4]\n\t(No symbol) [0x00007FF7C7FA36EC]\n\t(No symbol) [0x00007FF7C7F938E3]\n\tBaseThreadInitThunk [0x00007FFE9AB926AD+29]\n\tRtlUserThreadStart [0x00007FFE9ACEAA68+40]\n"
+}
