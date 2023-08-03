@@ -9,7 +9,7 @@ This repository contains code to test the application and validate specific func
  and select the Dr. Peter Test from Neuwied (Not from Unna)
 - Validate physician name and address
 - Validate the current day for the opening hours from contact section
-- 
+  
 # Test Data
  - URL: https://demo.clickdoc.de/cd-de/
  - Search term: Peter Test
